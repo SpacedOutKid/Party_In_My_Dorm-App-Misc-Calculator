@@ -1,0 +1,13 @@
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\bin\Debug\netcoreapp3.1\PIMDMiscCalculator.exe
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\bin\Debug\netcoreapp3.1\PIMDMiscCalculator.deps.json
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\bin\Debug\netcoreapp3.1\PIMDMiscCalculator.runtimeconfig.json
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\bin\Debug\netcoreapp3.1\PIMDMiscCalculator.runtimeconfig.dev.json
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\bin\Debug\netcoreapp3.1\PIMDMiscCalculator.dll
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\bin\Debug\netcoreapp3.1\PIMDMiscCalculator.pdb
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\obj\Debug\netcoreapp3.1\PIMDMiscCalculator.csprojAssemblyReference.cache
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\obj\Debug\netcoreapp3.1\PIMDMiscCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\obj\Debug\netcoreapp3.1\PIMDMiscCalculator.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\obj\Debug\netcoreapp3.1\PIMDMiscCalculator.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\obj\Debug\netcoreapp3.1\PIMDMiscCalculator.dll
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\obj\Debug\netcoreapp3.1\PIMDMiscCalculator.pdb
+C:\Users\Monta\OneDrive\Coding\C#\Coding Programs\PIMDMiscCalculator\obj\Debug\netcoreapp3.1\PIMDMiscCalculator.genruntimeconfig.cache
